@@ -15,5 +15,5 @@
             "M4sh3ru\\FormatHelper\\": "src"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
