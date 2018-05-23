@@ -1,0 +1,20 @@
+{
+    "name": "m4sh3ru/format-helper",
+    "description": "This package give you easily use some format in phwill be useless to help you developing system with php or laravel.",
+    "authors": [
+        {
+            "name": "Heru Setyiawan",
+            "email": "eyesblackhawk@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "M4sh3ru\\FormatHelper\\": "src"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
